@@ -1,0 +1,12 @@
+StartChar: adieresis
+Encoding: 228 228 13
+Width: 790
+Flags: W
+HStem: 178 66<42 88.1884 370.638 562.029> 371 66<494.734 630.035> 682 20G<100 165.273 292 352>
+VStem: 292 60<263.819 318 468 702> 297 45<353.876 568.223> 410 65<246.137 351.47> 669 60<144.57 330.725>
+LayerCount: 2
+Fore
+Refer: 15 -1 N 1 0 0 1 410 0 2
+Refer: 23 -1 N 1 0 0 1 0 0 2
+MultipleSubs2: "break_long_vowel-1" a a
+EndChar

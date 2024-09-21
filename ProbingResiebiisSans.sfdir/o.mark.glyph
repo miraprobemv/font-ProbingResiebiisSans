@@ -1,0 +1,21 @@
+StartChar: o.mark
+Encoding: 65540 -1 19
+Width: 0
+Flags: W
+HStem: 600 35<115.038 152.186>
+VStem: 183 78<658.236 716.991>
+AnchorPoint: "top" 168 600 mark 0
+LayerCount: 2
+Fore
+SplineSet
+261 711 m 3
+ 261 659 211 611.875976562 120 600 c 1
+ 102 626 l 1
+ 102 635 l 1
+ 147 642 174 660 183 688 c 5
+ 183 692 l 5
+ 170 698 156 716 156 741 c 3
+ 156 763 177 785 207 785 c 3
+ 239 785 261 760 261 711 c 3
+EndSplineSet
+EndChar

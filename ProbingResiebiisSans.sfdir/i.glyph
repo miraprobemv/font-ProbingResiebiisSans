@@ -1,0 +1,35 @@
+StartChar: i
+Encoding: 105 105 6
+Width: 490
+Flags: W
+HStem: 178 67<161.149 271.549> 450 20G<82 142 346 406>
+VStem: 82 60<263.219 470> 99 66<-95.6574 0.0779357> 346 60<146 470>
+AnchorPoint: "tail" 192 -178 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+254 109 m 2xd8
+ 346 146 l 1
+ 346 470 l 1
+ 406 470 l 17
+ 406 95 l 1
+ 235 48 165 7 165 -49 c 3
+ 165 -84 196 -111 238 -126 c 1
+ 238 -140 l 1
+ 192 -178 l 1
+ 132 -148 99 -113 99 -51 c 3
+ 99 20.2041015625 141.052645985 63.5755206678 254 109 c 2xd8
+82 470 m 1xe8
+ 142 470 l 1
+ 142 356 l 2
+ 142 276 165 245 203 245 c 3
+ 251 245 305 278 358 353 c 1
+ 398 329 l 1
+ 354 253 272 178 198 178 c 3
+ 122 178 82 212 82 346 c 2
+ 82 470 l 1xe8
+EndSplineSet
+Substitution2: "as_fin-1" i.fin
+Substitution2: "as_mark-1" i.mark
+Substitution2: "as_long-1" long_vowel
+EndChar

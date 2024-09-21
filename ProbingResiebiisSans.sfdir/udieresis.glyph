@@ -1,0 +1,12 @@
+StartChar: udieresis
+Encoding: 252 252 14
+Width: 490
+Flags: W
+HStem: -149 60.082<82.8215 176.185> 13 60<281.698 397.141> 25 56<84.527 242.233> 178 60<165.042 297.985> 450 20G<82 148>
+VStem: 4 66<-77.1696 10.6425> 82 66<256.648 470> 410 66<-127.259 0.6082>
+LayerCount: 2
+Fore
+Refer: 21 -1 N 1 0 0 1 117 40 2
+Refer: 8 117 N 1 0 0 1 0 0 2
+MultipleSubs2: "break_long_vowel-1" u u
+EndChar

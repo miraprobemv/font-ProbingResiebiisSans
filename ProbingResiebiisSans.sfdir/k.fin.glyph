@@ -1,0 +1,33 @@
+StartChar: k.fin
+Encoding: 65601 -1 93
+Width: 430
+Flags: W
+HStem: 450 20G<82 148>
+VStem: 82 66<255.957 470> 119 66<-57.8315 84.6279>
+AnchorPoint: "top" 197 554 basechar 0
+AnchorPoint: "bottom" 149 -178 basechar 0
+AnchorPoint: "tail" 232 -148 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+310 189 m 5xa0
+ 214 126 185 58.0087890625 185 1 c 7
+ 185 -46.169921875 211 -78 278 -88 c 5
+ 278 -102 l 5
+ 232 -148 l 5
+ 157 -120 119 -70.326171875 119 5 c 7
+ 119 82.05859375 162 140 232 214 c 5
+ 310 189 l 5xa0
+223 178 m 7
+ 131.950562879 178 82 216 82 303 c 6
+ 82 470 l 5
+ 148 470 l 5
+ 148 311 l 6xc0
+ 148 250 190 238 223 238 c 7
+ 264 238 330 252 365 281 c 5
+ 375 281 l 5
+ 362 211 l 5
+ 336 192 282 178 223 178 c 7
+EndSplineSet
+Substitution2: "from_low-1" k.fin.low
+EndChar

@@ -1,0 +1,12 @@
+StartChar: edieresis
+Encoding: 235 235 11
+Width: 680
+Flags: W
+HStem: 178 66<185.886 422.01> 371 66<394.734 530.035> 450 258G<8 88.5859 102 162 176.233 256> 558 21G<83.4122 180.588>
+VStem: 102 60<267.291 470> 310 65<246.137 351.47> 569 60<144.57 330.725>
+LayerCount: 2
+Fore
+Refer: 15 -1 N 1 0 0 1 310 0 2
+Refer: 30 -1 N 1 0 0 1 0 0 2
+MultipleSubs2: "break_long_vowel-1" e e
+EndChar

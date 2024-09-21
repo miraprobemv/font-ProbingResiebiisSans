@@ -1,0 +1,27 @@
+StartChar: long_vowel
+Encoding: 65536 -1 15
+Width: 360
+Flags: W
+HStem: 371 66<84.7337 220.035>
+VStem: 0 65<246.137 351.47> 259 60<144.57 330.725>
+LayerCount: 2
+Fore
+SplineSet
+85 260 m 1
+ 61 237 l 1
+ 26 227 l 1
+ 8 247 0 273 0 314 c 3
+ 0 384 57 437 153 437 c 7
+ 257 437 319 372 319 248 c 3
+ 319 141 259 52 204 0 c 1
+ 136 0 l 25
+ 136 15 l 1
+ 212 77 259 163 259 242 c 3
+ 259 326 222 371 154 371 c 3
+ 87 371 65 335 65 305 c 3
+ 65 285 70 270 85 260 c 1
+EndSplineSet
+Substitution2: "with_below-1" long_vowel.tail.below
+Substitution2: "from_low-1" long_vowel.low
+Substitution2: "as_tail-1" long_vowel.tail
+EndChar

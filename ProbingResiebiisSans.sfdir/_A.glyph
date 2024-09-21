@@ -1,0 +1,17 @@
+StartChar: A
+Encoding: 65 65 109
+Width: 300
+Flags: W
+HStem: 209 78<112 188>
+VStem: 112 76<209 287>
+LayerCount: 2
+Fore
+SplineSet
+188 209 m 1
+ 112 209 l 1
+ 112 287 l 1
+ 189 287 l 1
+ 188 209 l 1
+EndSplineSet
+Substitution2: "do_not_use_majuscule-1" a
+EndChar

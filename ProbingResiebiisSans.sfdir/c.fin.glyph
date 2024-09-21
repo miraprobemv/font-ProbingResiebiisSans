@@ -1,0 +1,31 @@
+StartChar: c.fin
+Encoding: 65550 -1 29
+Width: 750
+Flags: W
+HStem: 178 66<171.565 434.54> 450 104G<75 135 637 716>
+VStem: 75 60<279.486 470> 655 61<477.516 554>
+AnchorPoint: "tail" 534 248 basechar 0
+AnchorPoint: "top" 303 554 basechar 0
+AnchorPoint: "bottom" 308 -78 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+75 343 m 2
+ 75 470 l 1
+ 135 470 l 1
+ 135 353 l 2
+ 135 252 193.799804688 244 319.400390625 244 c 3
+ 449.120117188 244 619 334 655 554 c 1
+ 716 554 l 1
+ 716 534 l 1
+ 681 304 501.0390625 178 314.599609375 178 c 3
+ 171.400390625 178 75 200 75 343 c 2
+359 54 m 1
+ 324 2 l 1
+ 304 2 l 1
+ 262 51 l 1
+ 297 103 l 1
+ 319 103 l 1
+ 359 54 l 1
+EndSplineSet
+EndChar

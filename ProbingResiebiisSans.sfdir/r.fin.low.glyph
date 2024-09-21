@@ -1,0 +1,31 @@
+StartChar: r.fin.low
+Encoding: 65617 -1 150
+Width: 530
+Flags: W
+HStem: -154 67<154 240.031> 178 66<161.493 291.262> 450 20G<82 142 386 446>
+VStem: 82 60<264.274 470> 386 60<83.8094 231 356 470>
+AnchorPoint: "tail" 380 -27.3528 basechar 0
+AnchorPoint: "top" 263 554 basechar 0
+AnchorPoint: "bottom" 296 -178 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+82 470 m 1
+ 142 470 l 1
+ 142 326 l 2
+ 142 269 174 244 219 244 c 3
+ 288 244 386 317 386 396 c 1
+ 426 356 l 1
+ 405 247 295 178 214 178 c 3
+ 132 178 82 211 82 316 c 2
+ 82 470 l 1
+154 -87 m 1
+ 272 -77 386 0 386 226 c 2
+ 386 470 l 1
+ 446 470 l 1
+ 446 231 l 2
+ 446 -48 310 -134 171 -154 c 5
+ 154 -154 l 1
+ 154 -87 l 1
+EndSplineSet
+EndChar

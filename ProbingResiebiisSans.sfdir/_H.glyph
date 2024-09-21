@@ -1,0 +1,11 @@
+StartChar: H
+Encoding: 72 72 116
+Width: 300
+Flags: W
+HStem: 209 78<112 188>
+VStem: 112 76<209 287>
+LayerCount: 2
+Fore
+Refer: 109 65 N 1 0 0 1 0 0 2
+Substitution2: "do_not_use_majuscule-1" h
+EndChar
